@@ -59,15 +59,15 @@ The custom Convolutional Neural Network (CNN) model was trained using the follow
 * **Callbacks:** ReduceLROnPlateau
 
 [If you have an image of the model architecture, you can include it here:]
-![Model Architecture](path/to/your/model_architecture.png)
-*(Optional: Caption for the model architecture image)*
+![Model Architecture](Pneumonia_CNN_Model.jpeg)
+*(Model Architecture)*
 
 The training and validation performance over the epochs can be visualized in the following curve:
 
-![Training and Validation Curve](path/to/your/training_validation_curve.png)
-*(Optional: Caption for the training and validation curve)*
+![Training and Validation Curve](Training_Validation_Curve.jpeg)
+*(Training and Validation Curve)*
 
-This curve illustrates the training and validation accuracy (and/or loss) as the training progressed.
+This curve illustrates the training and validation accuracy and loss as the training progressed.
 
 ## Testing
 
@@ -78,6 +78,10 @@ This curve illustrates the training and validation accuracy (and/or loss) as the
    | accuracy ||| 0.91 | 636 |
    | macro avg | 0.90 | 0.90 | 0.90 | 636 |
    | weighted avg | 0.91 | 0.91 | 0.91 | 636 |
+   *(Classification Report)*
+
+   ![Confusion Matrix]()
+   *(Confusion Matrix (Model Testing))*
 
 ## Results
 
