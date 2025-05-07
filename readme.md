@@ -79,13 +79,13 @@ This curve illustrates the training and validation accuracy and loss as the trai
    | macro avg | 0.90 | 0.90 | 0.90 | 636 |
    | weighted avg | 0.91 | 0.91 | 0.91 | 636 |
    
-   *(Classification Report)*
+*(Classification Report)*
 
-   ![Confusion Matrix](Confusion_Matrix.png)
-   *(Confusion Matrix (Model Testing))*
+![Confusion Matrix](Confusion_Matrix.png)
+*(Confusion Matrix (Model Testing))*
 
 ## Results
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+The custom CNN model demonstrated strong performance in detecting pneumonia from chest X-ray images, achieving 91% accuracy. The model showed high precision (0.94 for Pneumonia, 0.85 for Normal) and recall (0.91 for Pneumonia, 0.90 for Normal).
 
 ## Learning
