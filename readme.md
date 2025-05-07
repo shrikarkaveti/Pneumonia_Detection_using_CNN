@@ -82,6 +82,7 @@ This curve illustrates the training and validation accuracy and loss as the trai
 *(Classification Report)*
 
 ![Confusion Matrix](Confusion_Matrix.png)
+
 *(Confusion Matrix (Model Testing))*
 
 ## Results
