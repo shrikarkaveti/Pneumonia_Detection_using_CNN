@@ -78,9 +78,10 @@ This curve illustrates the training and validation accuracy and loss as the trai
    | accuracy ||| 0.91 | 636 |
    | macro avg | 0.90 | 0.90 | 0.90 | 636 |
    | weighted avg | 0.91 | 0.91 | 0.91 | 636 |
+   
    *(Classification Report)*
 
-   ![Confusion Matrix]()
+   ![Confusion Matrix](Confusion_Matrix.png)
    *(Confusion Matrix (Model Testing))*
 
 ## Results
