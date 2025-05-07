@@ -58,7 +58,7 @@ The custom Convolutional Neural Network (CNN) model was trained using the follow
 * **Batch Size:** 32
 * **Callbacks:** ReduceLROnPlateau
 
-![Model Architecture](Pneumonia_CNN_Model.jpg)
+![Model Architecture](Pneumonia_CNN_Model.jpeg)
 *(Pneumonia Detection using CNN Model Architecture)*
 
 The training and validation performance over the epochs can be visualized in the following curve:
