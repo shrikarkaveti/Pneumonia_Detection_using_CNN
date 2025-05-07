@@ -89,3 +89,9 @@ This curve illustrates the training and validation accuracy and loss as the trai
 The custom CNN model demonstrated strong performance in detecting pneumonia from chest X-ray images, achieving 91% accuracy. The model showed high precision (0.94 for Pneumonia, 0.85 for Normal) and recall (0.91 for Pneumonia, 0.90 for Normal).
 
 ## Learning
+Through this project, I gained valuable experience and knowledge in the following areas:
+* Deep Learning for Medical Image Analysis: I developed a deeper understanding of how Convolutional Neural Networks (CNNs) can be applied to medical image analysis, specifically for pneumonia detection in chest X-rays.
+* CNN Model Development: I learned how to design, implement, and train a custom CNN architecture using TensorFlow.
+* Performance Optimization: I gained practical skills in optimizing model performance, including techniques for achieving high accuracy, precision, and recall.
+* Model Evaluation: I learned how to effectively evaluate model performance using metrics like precision, recall, and accuracy, and how to interpret these metrics in the context of a medical diagnosis task.
+* Transfer Learning: I gained experience in comparing the performance of different transfer learning models (ResNet-50 and InceptionV3) for this specific application.
