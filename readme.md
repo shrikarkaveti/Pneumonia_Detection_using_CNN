@@ -29,6 +29,10 @@ pip install tensorflow opencv-python scikit-learn matplotlib jupyter
 
 ## Dataset
 
+| ![Normal Sample](Normal_Sample_Data.png) | ![Pneumonia_Sample](Pneumonia_Sample_Data.png) |
+|--|--|
+| *(Normal Chest X-ray Sample)* | *(Pneumonia Chest X-ray Sample)* |
+
 ![Normal Sample](Normal_Sample_Data.png)
 
 *(Normal Chest X-ray Sample)*
