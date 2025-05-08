@@ -33,13 +33,6 @@ pip install tensorflow opencv-python scikit-learn matplotlib jupyter
 |--|--|
 | *(Normal Chest X-ray Sample)* | *(Pneumonia Chest X-ray Sample)* |
 
-![Normal Sample](Normal_Sample_Data.png)
-
-*(Normal Chest X-ray Sample)*
-
-![Pneumonia_Sample](Pneumonia_Sample_Data.png)
-
-*(Pneumonia Chest X-ray Sample)*
 
 This project utilized a dataset of 3000 chest X-ray images from the Guangzhou Women and Children's Medical Center, available on Mendeley Data: [Chest X-Ray Images (Pneumonia)](https://data.mendeley.com/datasets/rscbjbr9sj/2).
 
